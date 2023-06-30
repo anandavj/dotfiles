@@ -1,1 +1,2 @@
 .zshrc filter=git-crypt diff=git-crypt
+.git-credentials filter=git-crypt diff=git-crypt
